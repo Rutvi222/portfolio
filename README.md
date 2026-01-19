@@ -29,4 +29,12 @@ I enjoy building clean, scalable solutions and working on automation, integratio
 
 👉 [https://rutvi-dhameliya.netlify.app/](https://rutvi-dhameliya.netlify.app/)
 
+---
+
+## ⚙️ Setup Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/your-username/portfolio.git](https://github.com/Rutvi222/portfolio.git)
+
 
