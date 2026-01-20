@@ -9,63 +9,63 @@
             date: "Oct 09, 2025",
             title: "The Rise of No-Code + Low-Code: Should Developers Be Worried?",
             category: "Developer Career & Growth",
-            tags: "#no-code, #low-code, #software-development, #AI, #futureofcoding",
-            description: "This article examines the fast-growing rise of no-code...",
-            link: "https://rutvi-dhameliya.hashnode.dev/the-rise-of-no-code-low-code-should-developers-be-worried"
+            tags: ["#no-code", "#low-code", "#software-development", "#AI", "#futureofcoding"],
+            description: "This article examines the fast-growing rise of no-code and low-code platforms in 2025 and whether developers should be concerned. It highlights how these tools make simple websites, internal tools, and workflows easier to build, but still fall short when it comes to complex systems, scalability, integrations, and security. Instead of replacing developers, the article explains how no-code is reshaping their role—opening new opportunities for those who adapt, combine both approaches, and focus on higher-level problem-solving.",
+            link: "https://rutvi-dhameliya.hashnode.dev/no-code-low-code-future-developers"
         },
         {
             id: "02",
             date: "Oct 09, 2025",
             title: "MVC in the Age of Microservices: Is It Still Useful?",
             category: "System Design & Architecture",
-            tags: "#mvc, #software-architecture, #microservices, #webdev, #programming, #backend",
-            description: "This article examines the relevance of the MVC...",
-            link: "https://rutvi-dhameliya.hashnode.dev/mvc-in-the-age-of-microservices-is-it-still-useful"
+            tags: ["#mvc", "#software-architecture", "#microservices", "#webdev", "#programming", "#backend"],
+            description: "This article examines the relevance of the MVC (Model-View-Controller) design pattern in the age of microservices, component-based frontends, and serverless architectures. It discusses how MVC continues to provide structure and separation of concerns in traditional web apps while modern patterns like React components, API-first development, and microservices offer alternative approaches. The piece highlights that, although MVC may not be strictly applied everywhere, its principles remain foundational for building maintainable and scalable applications.",
+            link: "https://rutvi-dhameliya.hashnode.dev/mvc-vs-microservices-relevance"
         },
         {
             id: "03",
             date: "Oct 09, 2025",
             title: "Why I Still Use CodeIgniter 3 (And Why That's Okay)",
             category: "Frameworks & Legacy Systems",
-            tags: "#codeigniter3, #php, #webdev, #productivity, #legacy-code",
-            description: "This article explains why CodeIgniter 3 remains relevant...",
-            link: "https://rutvi-dhameliya.hashnode.dev/still-using-codeigniter-3"
+            tags: ["#codeigniter3", "#php", "#webdev", "#productivity", "#legacy-code"],
+            description: "This article explains why CodeIgniter 3 remains relevant in 2025 despite being considered “old” by some developers. It highlights CI3's simplicity, speed, control, and predichility, and shows how modern practices—like versioned controllers, Composer autoloading, and frontend integrations—can extend its usefulness. The piece emphasizes that stability and maintainability often matter more than chasing the latest frameworks, making CI3 a practical choice for many production projects.",
+            link: "https://rutvi-dhameliya.hashnode.dev/why-still-using-codeigniter-3"
         },
         {
             id: "04",
             date: "Oct 02, 2025",
             title: "How to Stay Updated in the Fast-Moving Tech World",
             category: "Developer Career & Growth",
-            tags: "#programming, #tech-trends, #webdev, #learning-resources",
-            description: "This article provides practical strategies for staying current...",
-            link: "https://rutvi-dhameliya.hashnode.dev/stay-updated-in-tech"
+            tags: ["#programming", "#tech-trends", "#webdev", "#learning-resources", "#developer", "#programming-news"],
+            description: "This article provides practical strategies for staying current in the rapidly evolving tech landscape. It covers ways to follow key news sources, leverage social media and newsletters, join communities, experiment with new tools, attend events, set learning goals, and automate content curation. The focus is on building sustainable habits that allow developers to continuously learn and adapt without feeling overwhelmed, ensuring their skills remain relevant and up-to-date.",
+            link: "https://rutvi-dhameliya.hashnode.dev/how-to-stay-updated-in-tech"
         },
         {
             id: "05",
             date: "AUG 20, 2025",
             title: "Why My Portfolio Doesn't Have a Contact Form",
             category: "Portfolio & Personal Branding",
-            tags: "#portfoliowebsite, #developerportfolio, #personalbrand",
-            description: "This article explains why a contact form isn't always necessary...",
-            link: "https://rutvi-dhameliya.hashnode.dev/why-my-portfolio-doesnt-have-a-contact-form"
+            tags: ["#portfoliowebsite", "#developerportfolio", "#personalbrand"],
+            description: "This article explains why a contact form isn't always necessary on personal portfolios. It highlights that direct email links and professional profiles often build more trust, reduce friction, and prevent lost opportunities caused by form failures. The piece emphasizes simplifying the portfolio experience, making it easier for visitors to reach out, and focusing on meaningful conversations rather than collecting form submissions.",
+            link: "https://rutvi-dhameliya.hashnode.dev/portfolio-without-contact-form"
         },
         {
             id: "06",
             date: "AUG 12, 2025",
             title: "Prompt Engineering for Developers: Turning AI into a Backend Teammate",
             category: "AI for Developers",
-            tags: "#promptengineering, #ai, #developertips",
-            description: "This article explores how developers can leverage prompt engineering...",
-            link: "https://rutvi-dhameliya.hashnode.dev/prompt-engineering-for-developers-turning-ai-into-a-backend-teammate"
+            tags: ["#promptengineering", "#ai", "#developertips"],
+            description: "This article explores how developers can leverage prompt engineering to turn AI into an effective backend teammate. It highlights practical strategies for accelerating problem-solving, generating optimized code, automating documentation, and reviewing code. By treating AI like a collaborative partner—providing context, roles, and iterative prompts—developers can save time, improve code quality, and enhance project architecture while learning new technologies more efficiently.",
+            link: "https://rutvi-dhameliya.hashnode.dev/prompt-engineering-for-backend-developers"
         },
         {
             id: "07",
             date: "AUG 07, 2025",
             title: "Versioning Your 100+ Controllers in CI3 Without Changing a Single Route",
             category: "Backend Development",
-            tags: "#php, #codeigniter, #legacy-code, #refactoring, #webdev",
-            description: "This article demonstrates a practical method for refactoring...",
-            link: "https://rutvi-dhameliya.hashnode.dev/versioning-your-100-controllers-in-ci3-without-changing-a-single-route"
+            tags: ["#php", "#codeigniter", "#legacy-code", "#refactoring", "#webdev"],
+            description: "This article demonstrates a practical method for refactoring and versioning 100+ controllers in a live CodeIgniter 3 application without altering routes or breaking frontend calls. It introduces a router-level controller versioning approach, using a localized/ directory and custom routing logic to seamlessly roll out new features while preserving existing endpoints. The piece highlights how thoughtful architecture and clever CI3 techniques can modernize legacy projects safely, reduce downtime, and prevent tech debt in production systems.",
+            link: "https://rutvi-dhameliya.hashnode.dev/versioning-codeigniter-controllers-no-route-change"
         }
     ];
 
